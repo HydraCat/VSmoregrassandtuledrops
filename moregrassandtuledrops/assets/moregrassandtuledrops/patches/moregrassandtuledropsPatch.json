@@ -1,0 +1,179 @@
+[
+  {
+    "file": "game:blocktypes/plant/reedpapyrus",
+    "op": "replace",
+    "path": "/dropsByType",
+    "value": {
+      "*coopersreed-*-normal-*": [
+        {
+          "type": "item",
+          "code": "cattailtops",
+          "quantity": {
+            "avg": 2,
+            "var": 1
+          }
+        }
+      ],
+      "*coopersreed-*-harvested-*": [
+        {
+          "type": "item",
+          "code": "cattailroot"
+        }
+      ],
+      "*papyrus-*-normal-*": [
+        {
+          "type": "item",
+          "code": "papyrustops",
+          "quantity": {
+            "avg": 2,
+            "var": 1
+          }
+        }
+      ],
+      "*papyrus-*-harvested-*": [
+        {
+          "type": "item",
+          "code": "papyrusroot"
+        }
+      ],
+      "tallplant-tule-land-normal-*": [
+        {
+          "type": "item",
+          "code": "thatch",
+          "quantity": {
+            "avg": 2,
+            "var": 1
+          }
+        }
+      ],
+      "tallplant-tule-land-harvested-*": [
+        {
+          "type": "item",
+          "code": "tuleroot"
+        }
+      ],
+      "tallplant-brownsedge-land-normal-*": [
+        {
+          "type": "item",
+          "code": "drygrass",
+          "quantity": {
+            "avg": 2,
+            "var": 1
+          }
+        }
+      ],
+      "tallplant-brownsedge-land-harvested-*": [
+        {
+          "type": "block",
+          "code": "tallplant-brownsedge-land-harvested-free"
+        }
+      ]
+    }
+  },
+  {
+    "file": "game:blocktypes/plant/tallgrass",
+    "op": "replace",
+    "path": "/dropsByType",
+    "value": {
+      "tallgrass-eaten-*": [],
+      "tallgrass-veryshort-*": [
+        {
+          "type": "item",
+          "code": "drygrass",
+          "quantity": { "avg": 1 },
+          "tool": "knife"
+        },
+        {
+          "type": "item",
+          "code": "drygrass",
+          "quantity": { "avg": 1 },
+          "tool": "scythe"
+        }
+      ],
+      "tallgrass-short-*": [
+        {
+          "type": "item",
+          "code": "drygrass",
+          "quantity": { "avg": 1 },
+          "tool": "knife"
+        },
+        {
+          "type": "item",
+          "code": "drygrass",
+          "quantity": { "avg": 1 },
+          "tool": "scythe"
+        }
+      ],
+      "tallgrass-mediumshort-*": [
+        {
+          "type": "item",
+          "code": "drygrass",
+          "quantity": { "avg": 2 },
+          "tool": "knife"
+        },
+        {
+          "type": "item",
+          "code": "drygrass",
+          "quantity": { "avg": 2 },
+          "tool": "scythe"
+        }
+      ],
+      "tallgrass-medium-*": [
+        {
+          "type": "item",
+          "code": "drygrass",
+          "quantity": { "avg": 2 },
+          "tool": "knife"
+        },
+        {
+          "type": "item",
+          "code": "drygrass",
+          "quantity": { "avg": 2 },
+          "tool": "scythe"
+        }
+      ],
+      "tallgrass-tall-*": [
+        {
+          "type": "item",
+          "code": "drygrass",
+          "quantity": { "avg": 3 },
+          "tool": "knife"
+        },
+        {
+          "type": "item",
+          "code": "drygrass",
+          "quantity": { "avg": 3 },
+          "tool": "scythe"
+        }
+      ],
+      "tallgrass-verytall-*": [
+        {
+          "type": "item",
+          "code": "drygrass",
+          "quantity": { "avg": 3 },
+          "tool": "knife"
+        },
+        {
+          "type": "item",
+          "code": "drygrass",
+          "quantity": { "avg": 3 },
+          "tool": "scythe"
+        }
+      ],
+      "*": [
+        {
+          "type": "item",
+          "code": "drygrass",
+          "quantity": { "avg": 5 },
+          "tool": "knife"
+        },
+        {
+          "type": "item",
+          "code": "drygrass",
+          "quantity": { "avg": 5 },
+          "tool": "scythe"
+        }
+      ]
+    }
+  }
+]

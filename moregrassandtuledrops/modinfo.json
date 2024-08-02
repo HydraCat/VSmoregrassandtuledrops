@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "moregrassandtuledrops",
+    "name": "moregrassandtuledrops",
+    "authors": [
+        "Arkhael"
+    ],
+    "description": "Increases grass drops based on length, adds variability to drops from tule-type plants",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}

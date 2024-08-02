@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "CakeBuild\CakeBuild.csproj", "{B7654500-B348-462E-8100-A48B5AF4DD2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moregrassandtuledrops", "moregrassandtuledrops\moregrassandtuledrops.csproj", "{65F0F155-138F-466C-AFD4-9A7CDBCDDD2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7654500-B348-462E-8100-A48B5AF4DD2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7654500-B348-462E-8100-A48B5AF4DD2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7654500-B348-462E-8100-A48B5AF4DD2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7654500-B348-462E-8100-A48B5AF4DD2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65F0F155-138F-466C-AFD4-9A7CDBCDDD2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F0F155-138F-466C-AFD4-9A7CDBCDDD2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F0F155-138F-466C-AFD4-9A7CDBCDDD2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F0F155-138F-466C-AFD4-9A7CDBCDDD2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B585F11D-DB3E-4B69-B662-CE4E9DDCA0FA}
+	EndGlobalSection
+EndGlobal
